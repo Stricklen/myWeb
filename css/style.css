@@ -5,7 +5,7 @@ body {
 }
 
 nav {
-    /* overflow: hidden; */
+    overflow: hidden;
     background-color: rgba(0, 0, 0, 0.3);
     color: whitesmoke;
     font-size: 18px;
